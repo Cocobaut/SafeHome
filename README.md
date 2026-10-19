@@ -240,8 +240,3 @@ Dự án được nghiên cứu và phát triển bởi các thành viên:
 </div>
 
 ---
-
-## 📜 Giấy phép & Lời cảm ơn
-
-- **Giấy phép**: Phân phối dưới giấy phép mã nguồn mở MIT.
-- **Phòng thí nghiệm**: Dự án thực hiện trong khuôn khổ nghiên cứu thực hành tại **[ACLAB - Trường Đại học Bách Khoa, ĐHQG-HCM](https://github.com/ACLAB-HCMUT)** (ACLAB-HCMUT).
